@@ -6,7 +6,7 @@
 
 ## 웹 폰트
 
-사용하는 `font-family`의 이름은 `GalmuriMono11`입니다.
+사용하는 `font-family`의 이름은 `GalmuriMono7`입니다.
 
 ### HTML
 
